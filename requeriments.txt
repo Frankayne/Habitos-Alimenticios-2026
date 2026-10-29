@@ -1,4 +1,4 @@
-Streamlit
-Pandas
-Numpy
-Plotly
+streamlit
+pandas
+numpy
+plotly.express
